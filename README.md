@@ -56,7 +56,7 @@ makes it a valuable tool for any movie-watching scenario.
 
 - [React](https://reactjs.org/) - Frontend Library
 - [Vite](https://vite.dev/) - Development Server
-- [Tailwind](https://tailwindcss.com/) - CSS Framework
+- [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
 - [TMDb API](https://developer.themoviedb.org/docs/getting-started) - Data API
 - [Appwrite](https://www.appwrite.io/) - Database
 - [Node.js](https://nodejs.org/) - Runtime Environment
