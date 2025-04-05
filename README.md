@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center"> GroupFlix: Group-Based Movie Suggestions
+<p align="center"> GroupFlix: Group-Based Movie Recommendations
     <br> 
 </p>
 
