@@ -1,12 +1,6 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
-</p>
 <h3 align="center">GroupFlix</h3>
 
----
-
-<p align="center"> GroupFlix: Group-Based Movie Recommendations
+<p align="center"> Group-Based Movie Recommendations
     <br> 
 </p>
 
