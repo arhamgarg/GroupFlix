@@ -1,8 +1,4 @@
-<h2 align="center">GroupFlix</h2>
-
-<p align="center"> Group-Based Movie Recommendations
-    <br> 
-</p>
+<h3 align="center"> Group-Based Movie Recommendations</h3>
 
 ## 📝 Table of Contents
 
