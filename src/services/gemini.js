@@ -4,7 +4,7 @@ const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY);
 
 export const getMovieRecommendations = async (movies) => {
   const model = genAI.getGenerativeModel({
-    model: "gemini-2.0-flash-thinking-exp-01-21",
+    model: "gemini-2.5-flash-preview-05-20",
   });
 
   const prompt = `Recommend 3 movies similar to these: ${movies.join(", ")}. 
